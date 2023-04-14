@@ -1,2 +1,2 @@
-# unreal-action-roguelike
+# ActionRoguelike
 Unreal course by Tom Looman
